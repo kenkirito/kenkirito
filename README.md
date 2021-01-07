@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anythin anime,coding
 - ⚡ Fun fact: anime lover
 
+
+![alt text](https://wallsdesk.com/wp-content/uploads/2016/04/Kaneki-Ken-4K.jpg)
