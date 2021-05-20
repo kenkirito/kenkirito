@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning react three fibre and creating amazing animation
 - 💬 Ask me about anything coding
 - 📫 How to reach me: https://www.linkedin.com/in/lakshya-mishra-61aa33191/
-- 😄 Pronouns: https://www.youtube.com/channel/UCmyEipN5pT6sxp1h2tX9xNA
+- 😄 My Youtube: https://www.youtube.com/channel/UCmyEipN5pT6sxp1h2tX9xNA
 -  ⚡ Fun fact: i sleep only 2 hrs.
 
 
