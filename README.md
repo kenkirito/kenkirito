@@ -3,8 +3,6 @@
 
 ![alt text](https://wallsdesk.com/wp-content/uploads/2016/04/Kaneki-Ken-4K.jpg)
 
-Here are some ideas to get you started:
-
 
 
 
@@ -32,23 +30,6 @@ Here are some ideas to get you started:
 
 [repo-url]: https://github.com/kenkirito/
 [banner-url]: https://user-images.githubusercontent.com/7276145/117090386-308f6b00-ad26-11eb-9763-2c0c3d47c5db.gif
-
-
-<!--
-**WizardSource/WizardSource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
  
  
