@@ -1,5 +1,4 @@
 ### Hi there 👋
-<div><h2><pre>              "What's wrong isn't me, what's wrong is the world!"</pre></h2></div>
 
 ![alt text](https://wallsdesk.com/wp-content/uploads/2016/04/Kaneki-Ken-4K.jpg)
 
@@ -8,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on mern stack
-- 🌱 I’m currently learning react three fibre and creating amazing animation
-- 💬 Ask me about anything coding
+- 🔭 I’m currently working on mern stack, flutter, ReactNative
+- 🌱 I’m currently learning to chill and take a break from a co-operate job
+- 💬 Ask me about anything coding, writing
 - 📫 How to reach me: https://www.linkedin.com/in/lakshya-mishra-61aa33191/
 - 😄 My Youtube: https://www.youtube.com/channel/UCmyEipN5pT6sxp1h2tX9xNA
 
