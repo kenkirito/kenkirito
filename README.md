@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on mern stack, flutter, ReactNative
-- 🌱 I’m currently learning to chill and take a break from a co-operate job
-- 💬 Ask me about anything coding, writing
+- 🔭 I’m currently working on mern stack, flutter
+- 🌱 I’m currently learning web3 and blockchain
+- 💬 Ask me about anything coding, writing, anime
 - 📫 How to reach me: https://www.linkedin.com/in/lakshya-mishra-61aa33191/
 - 😄 My Youtube: https://www.youtube.com/channel/UCmyEipN5pT6sxp1h2tX9xNA
 
