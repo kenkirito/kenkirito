@@ -32,11 +32,4 @@
 [banner-url]: https://user-images.githubusercontent.com/7276145/117090386-308f6b00-ad26-11eb-9763-2c0c3d47c5db.gif
 
  
- 
- 
-  <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/kenkirito/count.svg" />
-</p>
-
 
