@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on mern stack, flutter
+- 🔭 I’m currently working on mern stack
 - 🌱 I’m currently learning web3 and blockchain
-- 💬 Ask me about anything coding, writing, anime
+- 💬 Ask me about anything coding, anime
 - 📫 How to reach me: https://www.linkedin.com/in/lakshya-mishra-61aa33191/
 
 
