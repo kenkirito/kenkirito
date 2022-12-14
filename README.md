@@ -6,7 +6,8 @@
        100,000,000,000,000,0        83,333,333,333,333.33      19,230,769,230,769.23      120,192,307,692.31   33386752.136752778 
        
 
-<img src="https://c.tenor.com/WPMfUmW7qNgAAAAC/kaneki-ken-tokyo-ghoul.gifwidth and height of desktop " width="100%" height="100%" />
+<img src="https://media.tenor.com/0s1QL50xbfwAAAAC/dabi-bnha.gif" width="100%" height="100%" />
+
 
 
 
