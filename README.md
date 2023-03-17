@@ -16,7 +16,6 @@
 - 🔭 I’m currently working on django and go
 - 🌱 I’m currently learning about metaverse and three js 
 - 💬 Ask me about anything coding, anime
-- 📫 How to reach me: https://lakshyaport.vercel.app/
 
 
  
