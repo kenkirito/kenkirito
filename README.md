@@ -6,7 +6,7 @@
        100,000,000,000,000,0        83,333,333,333,333.33      19,230,769,230,769.23      120,192,307,692.31   33386752.136752778 
        
 
-<img src="https://media.tenor.com/oQSQPUvLIIoAAAAd/rock-lee.gif" width="100%" height="100%" />
+<img src="https://media4.giphy.com/media/kXdo4BgGoFC80/giphy.gif?cid=ecf05e47dn72hcs86mdh685igmdosyc5rd593nv7xl6n8jfd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="100%" /> 
 
 
 
@@ -39,4 +39,4 @@
 </div>
 
 [repo-url]: https://github.com/kenkirito/
-[banner-url]: https://user-images.githubusercontent.com/7276145/117090386-308f6b00-ad26-11eb-9763-2c0c3d47c5db.gif
+[banner-url]: https://user-images.githubusercontent.com/7276145/117090386-308f6b00-ad26-11eb-9763-2c0c3d47c5db.gif 
