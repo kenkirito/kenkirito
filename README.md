@@ -13,9 +13,10 @@
 
 
 
-- 🔭 I’m currently working on django and go
+- 🔭 I’m currently working on next js 
 - 🌱 I’m currently learning about metaverse and three js 
 - 💬 Ask me about anything coding, anime
+- 😔 How can you destroy a monster without becoming one?” – Kaneki
 
 
  
